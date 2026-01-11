@@ -4,7 +4,7 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-a4zn3d-4GI](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-a4zn3d-4GI)
+- Solution URL: [https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-KiLdacPowW](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-KiLdacPowW)
 - Live Site URL: [https://z-khutsishvili.github.io/fylo-landing-page-with-two-column-layout/](https://z-khutsishvili.github.io/fylo-landing-page-with-two-column-layout/)
 
 ## Built with
